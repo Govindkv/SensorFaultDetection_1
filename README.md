@@ -3,7 +3,7 @@
 
 # Sensor Fault Detection
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Sensor+Fault+Detection)
+![Project Banner](https://img.freepik.com/free-vector/semiconductor-chip-production-isometric-composition_1284-62400.jpg?t=st=1735399587~exp=1735403187~hmac=f09eded4773af3c3bf77df1d7a50ea9533efbb6135b71bb9aedbcf970dc69261&w=740)
 
 ## Overview
 Sensor Fault Detection is an end-to-end machine learning application designed to detect faults in industrial sensors using structured data. The application leverages modular architecture, automated pipelines, and Flask for API integration, ensuring scalability and robustness.
